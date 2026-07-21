@@ -1,1 +1,1 @@
-TOKEN = "8643417797:AAH01k6-3lV9OKloIv56QXnSob-KPmPiW5s"
+pashol nahui
